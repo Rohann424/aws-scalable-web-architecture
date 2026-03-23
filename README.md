@@ -5,6 +5,19 @@
 This project showcases how to design a **fault-tolerant, highly available, and cost-efficient web application** on AWS.  
 It leverages **load balancing, automatic scaling, real-time monitoring, and notifications** to ensure consistent performance under varying traffic loads.
 
+**AWS services used in project :**
+
+- VPC (Virtual Private Cloud)
+- Subnets (Public subnets in multiple Availability Zones)
+- Internet Gateway (IGW)
+- Security Groups
+- EC2 (Elastic Compute Cloud)
+- Application Load Balancer (ALB)
+- Target Groups
+- Auto Scaling Group (ASG)
+- CloudWatch
+- SNS (Simple Notification Service)
+
 **Project Objective :**
 
 - Deploy a web application across **multiple Availability Zones** for high availability.
@@ -12,6 +25,22 @@ It leverages **load balancing, automatic scaling, real-time monitoring, and noti
 - Implement **auto scaling** to handle traffic spikes automatically.
 - Monitor application performance using **CloudWatch** and receive notifications via **SNS**.
 - Demonstrate **real-time scaling and fault tolerance** in a cloud environment.
+
+**Real-World Applications :**
+
+- **E-commerce websites**: Automatically scale during flash sales or high traffic events.  
+- **Media streaming platforms**: Maintain performance under variable load.  
+- **Enterprise applications**: Ensure zero downtime across multiple availability zones.  
+- **SaaS applications**: Optimize cost while maintaining high availability.  
+
+
+ **Features :**
+
+- **Load balancing using ALB**
+- **Auto Scaling based on CPU utilization**
+- **Multi-instance deployment across availability zones**
+- **Real-time monitoring with CloudWatch**
+- **SNS notifications for alerts**
 
 
 
