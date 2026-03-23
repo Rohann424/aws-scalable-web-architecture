@@ -26,7 +26,7 @@ It leverages **load balancing, automatic scaling, real-time monitoring, and noti
 - Monitor application performance using **CloudWatch** and receive notifications via **SNS**.
 - Demonstrate **real-time scaling and fault tolerance** in a cloud environment.
 
-- 
+ 
 
  **Features :**
 
