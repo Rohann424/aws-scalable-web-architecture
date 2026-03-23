@@ -146,7 +146,7 @@ So I created :
 
 **Per-Instance CloudWatch Alarms (Server 2)  :**
 
-![Project Screenshot](screenshots/step11-per-instance-CPU-alarms.png)
+![Project Screenshot](screenshots/step11-per-instance-CPU-alarms-2.png)
 
 **Stress Testing (Server 2) :**
 
