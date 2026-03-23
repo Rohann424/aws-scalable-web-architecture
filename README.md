@@ -31,7 +31,7 @@ Enabled **auto-assign public IP** so instances can be accessed via the internet.
 
 Configured and attached an **Internet Gateway** to the VPC to allow **communication** between instances in the VPC and the internet.
 
-![Project Screenshot](screenshots/step2-subnets.png)
+![Project Screenshot](screenshots/step3-igw.png)
 
 
 
