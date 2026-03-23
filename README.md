@@ -93,7 +93,7 @@ Configured an **Auto Scaling Group** using the **launch template** to **automati
 
 ![Project Screenshot](screenshots/step10-asg1.png)
 
-![Project Screenshot](screenshots/step10-asg1.png)
+![Project Screenshot](screenshots/step10-asg2.png)
 
 
 
