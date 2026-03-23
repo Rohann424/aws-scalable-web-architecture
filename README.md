@@ -1,14 +1,19 @@
 # aws-scalable-web-architecture
 
-This project demonstrates a **highly available** and scalable **web application** architecture using AWS services including **Application Load Balancer (ALB), EC2, Auto Scaling Group, and CloudWatch**.
+**Project Overview :**
 
-**📌 Features:**
+This project showcases how to design a **fault-tolerant, highly available, and cost-efficient web application** on AWS.  
+It leverages **load balancing, automatic scaling, real-time monitoring, and notifications** to ensure consistent performance under varying traffic loads.
 
-- **Load balancing using ALB**
--Auto Scaling based on CPU utilization
--Multi-instance deployment across availability zones
--Real-time monitoring with CloudWatch
--SNS notifications for alerts**
+**Project Objective :**
+
+- Deploy a web application across **multiple Availability Zones** for high availability.
+- Distribute incoming traffic efficiently using an **Application Load Balancer**.
+- Implement **auto scaling** to handle traffic spikes automatically.
+- Monitor application performance using **CloudWatch** and receive notifications via **SNS**.
+- Demonstrate **real-time scaling and fault tolerance** in a cloud environment.
+
+
 
 **Architecture-diagram :**
 
