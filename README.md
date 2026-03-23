@@ -26,3 +26,20 @@ Created two **public subnets (10.0.1.0/24 and 10.0.2.0/24** in different **Avail
 Enabled **auto-assign public IP** so instances can be accessed via the internet.
 
 ![Project Screenshot](screenshots/step2-subnets.png)
+
+**Step 3 :**
+
+Configured and attached an **Internet Gateway** to the VPC to allow **communication** between instances in the VPC and the internet.
+
+![Project Screenshot](screenshots/step2-subnets.png)
+
+
+
+
+
+
+
+
+
+
+
