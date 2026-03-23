@@ -136,28 +136,28 @@ And configured **SNS notification** when alarm get trigger.
 - Connected to **both servers via SSH**.  
 - Ran **stress test commands** to simulate high CPU usage and verify scaling.
 
-**Per-Instance CloudWatch Alarms (Server 1)  :**
+- **Per-Instance CloudWatch Alarms (Server 1)  :**
 
 ![Project Screenshot](screenshots/step11-per-instance-CPU-alarms.png)
 
-**Stress Testing (Server 1) :**
+- **Stress Testing (Server 1) :**
 
 ![Project Screenshot](screenshots/step11-stress-test-commands.png)
 
-**Per-Instance CloudWatch Alarms (Server 2)  :**
+- **Per-Instance CloudWatch Alarms (Server 2)  :**
 
 ![Project Screenshot](screenshots/step11-per-instance-CPU-alarms-2.png)
 
-**Stress Testing (Server 2) :**
+- **Stress Testing (Server 2) :**
 
 ![Project Screenshot](screenshots/step11-stress-test-commands-2.png)
 
 
-**CloudWatch alarms (Triggered):**
+- **CloudWatch alarms (Triggered):**
 
 ![Project Screenshot](screenshots/step11-cloudwatch-alarm.png)
 
-**SNS notification :**
+- **SNS notification :**
 
 ![Project Screenshot](screenshots/step11-cloudwatch-sns-notification.png)
 
