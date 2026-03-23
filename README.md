@@ -150,7 +150,7 @@ So I created :
 
 **Stress Testing (Server 2) :**
 
-![Project Screenshot](screenshots/step11-stress-test-commands.png)
+![Project Screenshot](screenshots/step11-stress-test-commands-2.png)
 
 
 **CloudWatch alarms (Triggered):**
