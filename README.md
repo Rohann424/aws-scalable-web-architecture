@@ -128,8 +128,6 @@ Configured **CloudWatch alarms** to monitor EC2 **CPU utilization** and **trigge
 
 And configured **SNS notification** when alarm get trigger.
 
-**Per-Instance CloudWatch Alarms & Stress Testing :**
-
 By default, ASG alarms monitor **average CPU**, which may **not reach the threshold** if the load is spread across multiple instances.  
 
 So I created :
@@ -138,8 +136,13 @@ So I created :
 - Connected to **both servers via SSH**.  
 - Ran **stress test commands** to simulate high CPU usage and verify scaling.
 
+**Per-Instance CloudWatch Alarms  :**
+
 ![Project Screenshot](screenshots/step11-per-instance-CPU-alarms.png)
 
+**Stress Testing :**
+
+![Project Screenshot](screenshots/step11-per-instance-CPU-alarms.png)
 
 **CloudWatch alarms (Triggered):**
 
