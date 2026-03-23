@@ -136,13 +136,22 @@ So I created :
 - Connected to **both servers via SSH**.  
 - Ran **stress test commands** to simulate high CPU usage and verify scaling.
 
-**Per-Instance CloudWatch Alarms  :**
+**Per-Instance CloudWatch Alarms (Server 1)  :**
 
 ![Project Screenshot](screenshots/step11-per-instance-CPU-alarms.png)
 
-**Stress Testing :**
+**Stress Testing (Server 1) :**
+
+![Project Screenshot](screenshots/step11-stress-test-commands.png)
+
+**Per-Instance CloudWatch Alarms (Server 2)  :**
 
 ![Project Screenshot](screenshots/step11-per-instance-CPU-alarms.png)
+
+**Stress Testing (Server 2) :**
+
+![Project Screenshot](screenshots/step11-stress-test-commands.png)
+
 
 **CloudWatch alarms (Triggered):**
 
