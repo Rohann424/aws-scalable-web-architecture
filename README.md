@@ -69,6 +69,16 @@ This group acts as an intermediary between the **load balancer and backend insta
 
 ![Project Screenshot](screenshots/step7-target-group.png)
 
+**Step 8 :**
+
+Configured an **Application Load Balancer** to distribute incoming **HTTP traffic across multiple EC2 instanc**es using the **target group**.
+
+This ensures efficient **load distribution** and **high availability**.
+
+![Project Screenshot](screenshots/step7-target-group.png)
+
+
+
 
 
 
