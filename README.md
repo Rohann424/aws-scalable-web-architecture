@@ -53,15 +53,15 @@ Launched **two EC2 instances** in **separate public subnets** and **installed Ap
 
 These instances act as backend servers that serve web content to users.
 
-**User data :**
+-**User data :**
 
 ![Project Screenshot](screenshots/Step6-user-data.png)
 
-**Server 1 :**
+-**Server 1 :**
 
 ![Project Screenshot](screenshots/step6-ec2-server1.png)
 
-**Server 2 :**
+-**Server 2 :**
 
 ![Project Screenshot](screenshots/step6-ec2-server2.png)
 
@@ -73,7 +73,7 @@ This group acts as an intermediary between the **load balancer and backend insta
 
 ![Project Screenshot](screenshots/step7-target-group.png)
 
-**Target group health check settings :**
+-**Target group health check settings :**
 
 ![Project Screenshot](screenshots/Step7-Target-group-health-check-settings.png)
 
@@ -86,7 +86,7 @@ This ensures efficient **load distribution** and **high availability**.
 
 ![Project Screenshot](screenshots/step8-alb.png)
 
-**ALB listener & rules :**
+-**ALB listener & rules :**
 
 ![Project Screenshot](screenshots/step8-ALB-listner-rule.png)
 
@@ -99,7 +99,7 @@ This template is used by **Auto Scaling to launch new instances automatically**.
 
 ![Project Screenshot](screenshots/step9-launch-template.png)
 
-**User data :**
+-**User data :**
 
 ![Project Screenshot](screenshots/Step6-user-data.png)
 
@@ -128,9 +128,9 @@ Configured **CloudWatch alarms** to monitor EC2 **CPU utilization** and **trigge
 
 And configured **SNS notification** when alarm get trigger.
 
-By default, ASG alarms monitor **average CPU**, which may **not reach the threshold** if the load is spread across multiple instances.  
+-By default, ASG alarms monitor **average CPU**, which may **not reach the threshold** if the load is spread across multiple instances.  
 
-So I created :
+-So I created :
 
 - Created **per-instance CPU alarms** for each EC2 instance.  
 - Connected to **both servers via SSH**.  
