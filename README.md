@@ -74,7 +74,7 @@ This group acts as an intermediary between the **load balancer and backend insta
 
 **Target group health check settings :**
 
-![Project Screenshot](screenshots/step7-target-group.png)
+![Project Screenshot](screenshots/Step7-Target-group-health-check-settings.png)
 
 
 **Step 8 :**
