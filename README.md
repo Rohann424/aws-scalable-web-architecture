@@ -14,6 +14,8 @@ This project demonstrates a **highly available** and scalable **web application*
 
 ![Project Screenshot](Architecture-diagram.png)
 
+**Pratical Steps :**
+
 
 **Step 1 :**
 Created a **Virtual Private Cloud (VPC)** with **CIDR block 10.0.0.0/16** to establish an isolated and secure networking environment in AWS. 
