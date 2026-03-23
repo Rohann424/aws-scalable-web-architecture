@@ -16,7 +16,7 @@ Created a **Virtual Private Cloud (VPC)** with **CIDR block 10.0.0.0/16** to est
 
 This VPC acts as the foundational layer where all cloud resources such as EC2 instances, load balancers, and auto scaling groups are deployed.
 
-![Project Screenshot](screenshots/step1-vpc.png)
+![Project Screenshot](screenshots/step1-vpc-new.png)
 
 **Step 2 :**
 
