@@ -85,6 +85,11 @@ This ensures efficient **load distribution** and **high availability**.
 
 ![Project Screenshot](screenshots/step8-alb.png)
 
+**ALB listener & rules :**
+
+![Project Screenshot](screenshots/step8-alb.png)
+
+
 **Step 9 :**
 
 Created a **launch template** defining instance configuration such as AMI, instance type, security group, and user data. 
