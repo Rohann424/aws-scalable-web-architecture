@@ -87,7 +87,7 @@ This ensures efficient **load distribution** and **high availability**.
 
 **ALB listener & rules :**
 
-![Project Screenshot](screenshots/step8-alb.png)
+![Project Screenshot](screenshots/step8-ALB-listner-rule.png)
 
 
 **Step 9 :**
