@@ -91,7 +91,7 @@ Configured an **Auto Scaling Group** using the **launch template** to **automati
 
 **Integrated** it with the **load balancer** to **maintain availability**.
 
-![Project Screenshot](screenshots/step9-launch-template.png)
+![Project Screenshot](screenshots/step10-asg1.png)
 
 
 
