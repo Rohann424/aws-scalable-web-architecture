@@ -75,7 +75,7 @@ Configured an **Application Load Balancer** to distribute incoming **HTTP traffi
 
 This ensures efficient **load distribution** and **high availability**.
 
-![Project Screenshot](screenshots/step7-target-group.png)
+![Project Screenshot](screenshots/step8-alb.png)
 
 
 
