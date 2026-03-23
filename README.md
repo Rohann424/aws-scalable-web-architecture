@@ -119,7 +119,7 @@ Configured an **Auto Scaling Group** using the **launch template** to **automati
 - **Instances terminated** automatically (`i-0c42cf23a952454ca`) when demand decreased.
 - Demonstrates **dynamic scaling**, ensuring high availability while optimizing cost.
 
-![Project Screenshot](screenshots/step10-asg2.png)
+![Project Screenshot](screenshots/Step10-asg-activity.png)
 
 
 **Step 11 :**
