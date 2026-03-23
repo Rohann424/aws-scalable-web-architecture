@@ -113,6 +113,15 @@ Configured an **Auto Scaling Group** using the **launch template** to **automati
 
 ![Project Screenshot](screenshots/step10-asg2.png)
 
+**This shows the Auto Scaling Group activity :**
+
+- **New instances launched** automatically (`i-0b2a60492de66116d`, `i-0c42cf23a952454ca`) when CPU usage or traffic increased.
+- **Instances terminated** automatically (`i-0c42cf23a952454ca`) when demand decreased.
+- Demonstrates **dynamic scaling**, ensuring high availability while optimizing cost.
+
+![Project Screenshot](screenshots/step10-asg2.png)
+
+
 **Step 11 :**
 
 Configured **CloudWatch alarms** to monitor EC2 **CPU utilization** and **trigger scaling actions** when **thresholds** are exceeded.
