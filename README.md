@@ -26,6 +26,8 @@ It leverages **load balancing, automatic scaling, real-time monitoring, and noti
 - Monitor application performance using **CloudWatch** and receive notifications via **SNS**.
 - Demonstrate **real-time scaling and fault tolerance** in a cloud environment.
 
+- 
+
  **Features :**
 
 - **Load balancing using ALB**
@@ -33,6 +35,8 @@ It leverages **load balancing, automatic scaling, real-time monitoring, and noti
 - **Multi-instance deployment across availability zones**
 - **Real-time monitoring with CloudWatch**
 - **SNS notifications for alerts**
+
+
 
 **Real-World Applications :**
 
@@ -43,9 +47,13 @@ It leverages **load balancing, automatic scaling, real-time monitoring, and noti
 
 
 
+
+
 **Architecture-diagram :**
 
 ![Project Screenshot](Architecture-diagram.png)
+
+
 
 **Pratical Steps :**
 
