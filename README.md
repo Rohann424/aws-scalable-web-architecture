@@ -45,7 +45,7 @@ Associated the route table with public subnets to **allow internet access**.
 
 Configured a **security group** allowing inbound **HTTP (port 80)** for web traffic and **SSH (port 22)** for secure administrative access.
 
-![Project Screenshot](screenshots/step4-route-table.png)
+![Project Screenshot](screenshots/step5-sg.png)
 
 
 
