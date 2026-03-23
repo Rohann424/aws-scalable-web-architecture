@@ -47,6 +47,15 @@ Configured a **security group** allowing inbound **HTTP (port 80)** for web traf
 
 ![Project Screenshot](screenshots/step5-sg.png)
 
+**Step 6 :**
+
+Launched **two EC2 instances** in **separate public subnets** and **installed Apache web servers** using user data scripts. 
+
+These instances act as backend servers that serve web content to users.
+
+![Project Screenshot](screenshots/step5-sg.png)
+
+
 
 
 
