@@ -115,7 +115,7 @@ Performed **testing** by accessing the **load balancer DNS**, refreshing request
 
 ![Project Screenshot](screenshots/step12-testing1.png)
 
-![Project Screenshot](screenshots/step11-cloudwatch-sns-notification.png)
+![Project Screenshot](screenshots/step12-testing2.png)
 
 **Summary :**
 
