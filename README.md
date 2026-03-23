@@ -59,7 +59,7 @@ These instances act as backend servers that serve web content to users.
 
 **Server 2 :**
 
-![Project Screenshot](screenshots/step6-ec2-server1.png)
+![Project Screenshot](screenshots/step6-ec2-server2.png)
 
 
 
