@@ -4,7 +4,7 @@ This project demonstrates a **highly available** and scalable **web application*
 
 **📌 Features:**
 
--**Load balancing using ALB**
+- **Load balancing using ALB**
 -Auto Scaling based on CPU utilization
 -Multi-instance deployment across availability zones
 -Real-time monitoring with CloudWatch
