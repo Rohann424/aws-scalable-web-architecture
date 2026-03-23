@@ -33,6 +33,15 @@ Configured and attached an **Internet Gateway** to the VPC to allow **communicat
 
 ![Project Screenshot](screenshots/step3-igw.png)
 
+**Step 4 :**
+
+Created a **route table** and added a default **route (0.0.0.0/0)** pointing to the Internet Gateway. 
+
+Associated the route table with public subnets to **allow internet access**.
+
+![Project Screenshot](screenshots/step3-igw.png)
+
+
 
 
 
