@@ -107,7 +107,7 @@ And configured **SNS notification** when alarm get trigger.
 
 **SNS notification :**
 
-![Project Screenshot](screenshots/step11-cloudwatch-alarm.png)
+![Project Screenshot](screenshots/step11-cloudwatch-sns-notification.png)
 
 
 
