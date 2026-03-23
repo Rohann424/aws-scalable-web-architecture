@@ -39,7 +39,7 @@ Created a **route table** and added a default **route (0.0.0.0/0)** pointing to 
 
 Associated the route table with public subnets to **allow internet access**.
 
-![Project Screenshot](screenshots/step3-igw.png)
+![Project Screenshot](screenshots/step4-route-table.png)
 
 
 
