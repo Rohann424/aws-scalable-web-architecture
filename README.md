@@ -99,7 +99,9 @@ Configured an **Auto Scaling Group** using the **launch template** to **automati
 
 Configured **CloudWatch alarms** to monitor EC2 **CPU utilization** and **trigger scaling actions** when **thresholds** are exceeded.
 
-![Project Screenshot](screenshots/step10-asg2.png)
+**CloudWatch alarms :**
+
+![Project Screenshot](screenshots/step11-cloudwatch-alarm.png)
 
 
 
