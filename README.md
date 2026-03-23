@@ -115,6 +115,14 @@ Performed **testing** by accessing the **load balancer DNS**, refreshing request
 
 ![Project Screenshot](screenshots/step11-cloudwatch-sns-notification.png)
 
+![Project Screenshot](screenshots/step11-cloudwatch-sns-notification.png)
+
+**Summary :**
+
+**This project demonstrates a scalable and highly available web application architecture using AWS services including EC2, ALB, Auto Scaling, and CloudWatch.**
+
+**It solves real-world challenges such as traffic distribution, fault tolerance, and automatic scaling while ensuring high performance and reliability.**
+
 
 
 
