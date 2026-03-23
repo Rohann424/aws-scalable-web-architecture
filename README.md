@@ -83,7 +83,7 @@ Created a **launch template** defining instance configuration such as AMI, insta
 
 This template is used by **Auto Scaling to launch new instances automatically**.
 
-![Project Screenshot](screenshots/step8-alb.png)
+![Project Screenshot](screenshots/step9-launch-template.png)
 
 
 
