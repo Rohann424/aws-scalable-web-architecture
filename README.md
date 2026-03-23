@@ -67,7 +67,7 @@ Created a **target group** and **registered EC2 instances** as targets.
 
 This group acts as an intermediary between the **load balancer and backend instances**, enabling **efficient traffic routing and health monitoring**.
 
-![Project Screenshot](screenshots/step6-ec2-server2.png)
+![Project Screenshot](screenshots/step7-target-group.png)
 
 
 
