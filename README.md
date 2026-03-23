@@ -53,8 +53,13 @@ Launched **two EC2 instances** in **separate public subnets** and **installed Ap
 
 These instances act as backend servers that serve web content to users.
 
-![Project Screenshot](screenshots/step5-sg.png)
+**Server 1 :**
 
+![Project Screenshot](screenshots/step6-ec2-server1.png)
+
+**Server 2 :**
+
+![Project Screenshot](screenshots/step6-ec2-server1.png)
 
 
 
