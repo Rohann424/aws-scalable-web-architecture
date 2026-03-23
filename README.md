@@ -99,6 +99,10 @@ This template is used by **Auto Scaling to launch new instances automatically**.
 
 ![Project Screenshot](screenshots/step9-launch-template.png)
 
+**User data :**
+
+![Project Screenshot](screenshots/Step6-user-data.png)
+
 **Step 10 :**
 
 Configured an **Auto Scaling Group** using the **launch template** to **automatically adjust the number of EC2 instances** based on **traffic demand**. 
