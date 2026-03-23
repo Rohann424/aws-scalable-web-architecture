@@ -109,6 +109,10 @@ And configured **SNS notification** when alarm get trigger.
 
 ![Project Screenshot](screenshots/step11-cloudwatch-sns-notification.png)
 
+**Step 12 :**
+
+Performed **testing** by accessing the **load balancer DNS**, refreshing requests to **observe traffic distribution**, and **validating auto scaling behavior**.
+
 
 
 
